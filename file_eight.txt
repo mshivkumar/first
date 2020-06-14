@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This file is very nicely Edited for adding feature one
+=======
+This file is very nicely Edited for adding feature two
+>>>>>>> feature-two
